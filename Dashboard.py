@@ -5,7 +5,7 @@ import requests
 from requests.auth import HTTPBasicAuth
 import numpy as np
 st.set_page_config(
-    page_title="Sagawa DMS Dashboard",
+    page_title="Pericom DMS Dashboard",
     page_icon="📊",
     layout="wide"
     )
